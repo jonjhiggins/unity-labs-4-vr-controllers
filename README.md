@@ -8,3 +8,5 @@ The project is already set up with:
 
 Contains assets from:
 - hello_normal_hp.wav by xpoki https://freesound.org/people/xpoki/sounds/436740/
+- Key by Quaternius https://poly.pizza/m/bg6e1lfNsO
+- Tada1.mp3 by usinggarageband https://freesound.org/people/usinggarageband/sounds/152576/
